@@ -1,0 +1,78 @@
+.HeaderEdit{
+
+    display: flex;
+    list-style-type: none;
+    & img{margin-left: 30px;}
+    & .listItem{margin-left: 20px;}
+    background-color: #550065;
+    padding: 5px;
+    padding-top: 5px;
+    color: white;
+    align-items: center;
+    font-weight: bolder;
+    & select{margin-left: 10px; background-color: transparent;}
+    margin-bottom: 0px;
+}
+
+
+.searchBox{
+
+    margin-left: 5px;
+    width: 8rem;
+    border-radius: 20px;
+}
+
+
+.logoPerson{
+
+    font-size: 20px;
+}
+
+.mainImgDiv{
+
+    /* background-image: url("../../public/Img/fifaMianImg.webp"); */
+    height: 32rem;
+    width: 63rem !important;
+    color: white;
+    background-size: cover;
+    display: flex;
+    align-items: end;
+}
+
+.contxImg{
+
+    margin-left: 20rem;
+}
+
+.watchDiv{
+
+    display: flex;
+    justify-content: center;
+}
+
+.watchImg{
+
+    height: 200px;
+    width: 200px;
+    margin-top: 0px;
+}
+
+.rctCards{
+
+    width: 360px !important;
+    float: right;
+    margin-right: 50px;
+    height: 150px !important;
+}
+
+.imgSlid1{
+
+    height: 32rem;   
+}
+
+.LanguageList{
+
+    background-color: rgba(213, 213, 213, 0.5);
+    color: white;
+    border-style: none;
+}

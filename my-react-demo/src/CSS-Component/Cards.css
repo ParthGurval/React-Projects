@@ -1,0 +1,28 @@
+.row{
+
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    /* border: 2px solid black; */
+}
+
+.infoBox{
+
+    display: flex;
+    box-shadow: 4px 5px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.mofBut2{
+
+    margin-top: 90px;
+}
+
+.mofBut4{
+
+    margin-top: 20px;
+}
+
+.container{
+    border: 2px solid black;
+    background-color: snow;
+}

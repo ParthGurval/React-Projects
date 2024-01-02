@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.UlList{
+
+  color: #f7edcf;
+  font-weight: bolder;
+  background-color: #212529;
+}
+
+.UlList li{
+
+  padding-bottom: 30px;
+  font-size: 21px;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.listContainer{
+
+  border: 5px solid black;
+  height: 650px;
+  margin-left: 10px;
+  border-radius: 10px !important;
+   /* border: linear-gradient(to left, #743ad5, #d53a9d); */
+  background-color: #212529;
+  
+}
+
+.border-gradient {
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 5px;
+  border-radius: 1rem;
+}
+.border-gradient-purple {
+  border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+}
